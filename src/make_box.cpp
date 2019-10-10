@@ -5,8 +5,11 @@
 #include <time.h>
 #include <stdlib.h>
 
+//intialisering af in and output
 
+int red =1;
 
+//test commit 
 int penwidth = 20;
 
 int red = 0;
